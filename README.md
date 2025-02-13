@@ -16,7 +16,7 @@ A Python application for generating long-term desk bookings in an office environ
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/long-term-booking.git
+git clone https://github.com/vladslugin987/long-term-booking.git
 cd long-term-booking
 ```
 
